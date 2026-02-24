@@ -1,2 +1,2 @@
 # turismo-responsivo
-Landing page responsiva centrada en la experiencia del usuario.
+Práctica de landing page responsiva centrada en la experiencia del usuario.
